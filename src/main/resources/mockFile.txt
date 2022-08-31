@@ -5,3 +5,5 @@ Most Spring Boot applications need minimal Spring configuration.
 
 If you’re looking for information about a specific version, or instructions about how to upgrade from an earlier release,
 check out the project release notes section on our wiki.
+
+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
