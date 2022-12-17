@@ -1,3 +1,13 @@
+How to Create Token form GitHub:
+https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+==============================================================
+how to push into GitHub:
+------------------------
+git push https://github.com/smohsen-hosseini/java-master.git
+Username for 'https://github.com': mohsen.hosseini84@gmail.com
+
+
+==============================================================
 to:
 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
 
